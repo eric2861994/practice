@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 dadah dunia
+=======
+hi dunia
+>>>>>>> exper
 saya mau mati
